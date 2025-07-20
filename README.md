@@ -11,7 +11,7 @@ Proyek ini bertujuan untuk melakukan analisis pengelompokan (clustering) provins
 3.  [Dataset](#dataset)
 4.  [Metodologi](#metodologi)
 5.  [Hasil Clustering](#hasil-clustering)
-6.  [Tech Stack](#tumpukan-teknologi)
+6.  [Tech Stack](#tech-stack)
 7.  [Cara Menjalankan Proyek](#cara-menjalankan-proyek)
 
 ---
